@@ -1,0 +1,6 @@
+.venv
+2btech_auth.json
+esdr-auth-2btech-uploader.json
+token.json
+mirror-2btech.ipynb.log
+mirror-2btech.ipynb.lock
